@@ -1,6 +1,0 @@
-What is the difference between a .py file and .ipynb file?
-.py is a regular python file. It's plain text and contains just your code.
-.ipynb is a python notebook and it contains the notebook code, the execution results and other internal settings in a specific format. 
-Note: You can run .ipynb on the jupyter environment only that is in either jypter notebood or in google colab.
-you will not be able to view .ipynb file in pycharm to view in pycharm we have to install jupter package and open in jupyter environment mode.
-=================================================================================================================
