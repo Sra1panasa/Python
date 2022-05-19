@@ -1,0 +1,21 @@
+1) git hub- code repository - create account
+2) Coding tools - Google Colab - code can be executed line by line
+3) Pycharm - 
+4) Anaconda..
+
+============
+Anaconda:
+
+java- (java libraries/frameworks- spring,hibernate,web services,spring boot
+
+Python - 
+
+python frameworks - pandas,numpy,flask,django,...
+
+*************Anoconda - its a package for all python libraries************
+====================================================================
+
+
+
+
+ 
