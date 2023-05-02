@@ -1,0 +1,66 @@
+Precision is already dropping:
+need to find why recall is dropping
+
+03/01
+
+(44861, 79)
+----
+(2517, 79)- 
+(29280, 79)
+---
+(442, 79) - FN
+(12622, 79) - FP
+
+===========================
+
+04/01
+
+(56998, 79)
+----
+(2487, 79) - TP
+(37142, 79) - TN
+---
+(362, 79) -FN
+(17007, 79) - FP
+
+19,494
+2849
+
+
+
+===========================
+05/01/
+
+(68151, 79)
+----
+(2810, 79) -TP
+(46655, 79) - TN
+---
+(479, 79) - FN
+(18207, 79) - FP
+
+
+precision= 0.13
+recall= 0.85
+=============================
+
+09/01
+
+(63662, 79)
+----
+(1596, 79)    - TP
+(51139, 79)   - TN
+---
+(1265, 79)   - FN
+(9662, 79)  - FP
+
+
+precision= TP/TP+FP =0.14
+
+Recall = TP/TP+FN =0.55
+
+recall dropping means we have to check .. FN i .e ..  your prediction is NoMatch and researcher resp is Match..
+
+
+Match - NoMatch - since name is the problem... 
+
